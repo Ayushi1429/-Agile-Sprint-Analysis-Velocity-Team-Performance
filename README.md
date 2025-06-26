@@ -6,7 +6,7 @@ This project analyzes real-world Agile sprint data from the **Spring XD open-sou
 
 ## 📁 Dataset Information
 
-- Source: Public Agile Jira Dataset (Spring XD)
+- Source: Public Agile Jira Dataset (Spring XD) 
 - Files used:
   - `Spring XD Issues 1992.csv` — Individual issue-level data
   - `Spring XD Issues Summary 2861.csv` — Sprint-wise summary of story points, bugs, and tasks
